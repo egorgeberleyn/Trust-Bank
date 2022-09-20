@@ -2,7 +2,7 @@
 
 Bank system developed on Asp .Net Core
 
-STACK 
-Backend: C#, ASP .NET Core MVC, ASP .NET Core Identity
-Database: PostgreSQL, Entity Framework Core
-Frontend: JavaScript, HTML/CSS
+## STACK <br>
+Backend: C#, ASP .NET Core MVC, ASP .NET Core Identity <br>
+Database: PostgreSQL, Entity Framework Core <br>
+Frontend: JavaScript, HTML/CSS <br>
